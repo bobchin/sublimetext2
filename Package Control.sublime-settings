@@ -2,12 +2,16 @@
 	"auto_upgrade_last_run": 1352279765,
 	"installed_packages":
 	[
+		"Additional PHP Snippets",
+		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CSS Snippets",
 		"HTML5",
+		"IndentGuides",
 		"Package Control",
 		"SASS Build",
 		"SCSS Snippets",
+		"SublimeLinter",
 		"Theme - Soda",
 		"ZenCoding"
 	]

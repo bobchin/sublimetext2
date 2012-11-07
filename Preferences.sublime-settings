@@ -1,0 +1,10 @@
+{
+	"theme": "Soda Dark.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"font_face": "Ricty",
+	"font_size": 13,
+	"highlight_line": true,
+	"line_padding_top": 2,
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": true
+}

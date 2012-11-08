@@ -1,9 +1,7 @@
 {
-	"auto_upgrade_last_run": 1352279765,
+	"auto_upgrade_last_run": 1352332008,
 	"installed_packages":
 	[
-		"Additional PHP Snippets",
-		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CSS Snippets",
 		"HTML5",
